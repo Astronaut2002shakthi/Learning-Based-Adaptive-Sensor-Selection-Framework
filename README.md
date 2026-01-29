@@ -25,10 +25,10 @@ The framework is modeled as a Multi-Armed Bandit (MAB) problem and solved using 
 
 ### **🏗 System Architecture**
 
-**Sensor Hub:** Multi-parameter node with 7 sensors monitoring 9 environmental parameters
-**Active Sensors:** Selected optimally each measurement cycle
-**Sleep Sensors:** Predicted using trained GPR models
-**Edge Node:** Performs learning, prediction, and feedback control
+**Sensor Hub:** Multi-parameter node with 7 sensors monitoring 9 environmental parameters <br/>
+**Active Sensors:** Selected optimally each measurement cycle <br/>
+**Sleep Sensors:** Predicted using trained GPR models <br/>
+**Edge Node:** Performs learning, prediction, and feedback control <br/>
 
 ### **⚙️ Software Requirements**
 

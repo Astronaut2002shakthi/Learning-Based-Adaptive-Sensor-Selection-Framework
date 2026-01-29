@@ -78,8 +78,8 @@ Correlation Threshold: 0.5 (maximizes reward and energy savings)
 
 ### **📚 References**
 
-1) S. Ghosh, S. De, S. Chatterjee, and M. Portmann, “Learning-based adaptive sensor selection framework for multi-sensing wsn,” IEEE Sensors Journal, vol. 21, no. 12, pp. 13 551–13 563, 2021. doi:10.1109/JSEN.2021.3069264.
-2) S. Ghosh, P. Das, S. Murugesh, S. De, S. Chatterjee and M. Portmann, "Energy Aware Smart Sensing and Implementation in Green Air Pollution Monitoring System," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 2153-2158, doi: 10.1109/ICC45041.2023.10279138
+1) S. Ghosh, S. De, S. Chatterjee, and M. Portmann, “Learning-based adaptive sensor selection framework for multi-sensing wsn,” IEEE Sensors Journal, vol. 21, no. 12, pp. 13 551–13 563, 2021. [doi:10.1109/JSEN.2021.3069264].
+2) S. Ghosh, P. Das, S. Murugesh, S. De, S. Chatterjee and M. Portmann, "Energy Aware Smart Sensing and Implementation in Green Air Pollution Monitoring System," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 2153-2158, [doi: 10.1109/ICC45041.2023.10279138]
 
 
 **👩‍💻 Author**
